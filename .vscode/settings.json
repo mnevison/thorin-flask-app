@@ -13,6 +13,6 @@
     "**/CVS": true
   },
   "files.autoSave": "afterDelay",
-  "workbench.colorTheme": "August - Arstotzka (Darker)",
+  "workbench.colorTheme": "Winter is Coming (Dark Black)",
   "terminal.integrated.gpuAcceleration": "canvas"
 }
