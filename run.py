@@ -14,7 +14,7 @@ import json
 # Check if the 'env.py' file exists (usually for storing environment variables locally),
 # and if it does, import it to access environment-specific settings like SECRET_KEY.
 if os.path.exists("env.py"):
-    import envgit 
+    import env
 
 # Create the Flask application instance
 app = Flask(__name__)
